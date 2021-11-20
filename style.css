@@ -84,3 +84,7 @@ p {
   display: flex;
   flex-wrap: wrap;
 }
+
+.menu nav a {
+  font-size: 1.25em;
+}
