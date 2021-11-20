@@ -80,6 +80,6 @@ p {
   margin: 0 10px;
 }
 
-.menu-nav {
-  
+.menu-nav ul {
+  display: flex;
 }
