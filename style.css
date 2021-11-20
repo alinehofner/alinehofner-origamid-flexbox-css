@@ -111,3 +111,7 @@ p {
   padding: 60px 0;
   display: flex;
 }
+
+.sobre-info {
+  flex: 2 1 0;
+}
