@@ -29,3 +29,20 @@ p {
   width: 300px;
   padding: 0 60px;
 }
+
+* {
+  box-sizing: border-box;
+}
+
+.superinfo-bg {
+  background: #122ab2;
+  color: white;
+}
+
+.superinfo {
+  max-width: 960px;
+}
+
+.superinfo a {
+  color: white;
+}
