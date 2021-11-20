@@ -69,3 +69,11 @@ p {
   justify-content: space-between;
   align-items: center;
 }
+
+.menu a {
+  color: white;
+}
+
+.menu-logo a {
+
+}
