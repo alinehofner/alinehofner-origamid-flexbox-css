@@ -55,3 +55,12 @@ p {
 .superinfo a {
   color: white;
 }
+
+.menu-bg {
+  background:#2c70ff;
+}
+
+.menu {
+  max-width: 960px;
+  margin: 0 auto;
+}
