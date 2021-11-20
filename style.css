@@ -41,6 +41,7 @@ p {
 
 .superinfo {
   max-width: 960px;
+  margin: 0 auto;
 }
 
 .superinfo a {
