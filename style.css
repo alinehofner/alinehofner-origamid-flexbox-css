@@ -77,4 +77,5 @@ p {
 .menu-logo a {
   font-size: 2.25em;
   font-weight: bold;
+  margin: 0 10px;
 }
