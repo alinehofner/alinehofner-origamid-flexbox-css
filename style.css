@@ -94,3 +94,8 @@ p {
 .menu-nav a:hover {
   color: #122ab2;
 }
+
+.introducao {
+  font-size: 3em;
+  line-height: 1;
+}
