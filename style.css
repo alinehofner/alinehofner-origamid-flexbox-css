@@ -24,3 +24,7 @@ img {
 * {
   box-sizing: border-box;
 }
+
+p {
+  width: 300px;
+}
