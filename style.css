@@ -218,3 +218,7 @@ produtos-item h2 {
   border-top: 4px solid white;
   border-bottom: 4px solid white;
 }
+
+.preco-item sup {
+  font-size: .5rem;
+}
