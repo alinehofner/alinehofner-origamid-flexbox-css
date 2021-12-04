@@ -199,3 +199,7 @@ produtos-item h2 {
   margin: 10px;
   align-self: flex-end;
 }
+
+.preco-item h2 {
+  font-size: 3em;
+}
