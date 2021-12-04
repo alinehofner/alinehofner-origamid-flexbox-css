@@ -141,3 +141,8 @@ p {
   flex: 1 1 160px;
   margin: 0 10px;
 }
+
+.produtos {
+  max-width: 960px;
+  margin: 60px;
+}
