@@ -236,7 +236,7 @@ produtos-item h2 {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
 }
 
 .preco-item li::after {
