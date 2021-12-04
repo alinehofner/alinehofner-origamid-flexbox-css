@@ -225,4 +225,6 @@ produtos-item h2 {
 
 .preco-item ul {
   max-width: 300px;
+  margin: 20px auto;
+  font-size: 1.25em;
 }
