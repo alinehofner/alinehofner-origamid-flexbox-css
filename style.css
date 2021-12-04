@@ -145,6 +145,7 @@ p {
 .produtos {
   max-width: 960px;
   margin: 60px auto;
+
 }
 
 .produtos h1 {
@@ -155,6 +156,7 @@ p {
 .produtos-container {
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
 }
 
 .produtos-item {
