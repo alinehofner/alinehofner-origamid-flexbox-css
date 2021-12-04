@@ -213,4 +213,5 @@ produtos-item h2 {
   display: block;
   text-align: center;
   font-weight: bold;
+  padding: 10px 0 5px 0;
 }
