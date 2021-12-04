@@ -1,10 +1,16 @@
-body, h1, h2, p , ul, li, a {
+body,
+h1,
+h2,
+p,
+ul,
+li,
+a {
   margin: 0px;
   padding: 0px;
 }
 
 body {
-  font-family: 'Nunito',Helvetica, Arial, sans-serif;
+  font-family: "Nunito", Helvetica, Arial, sans-serif;
   color: #222222;
 }
 
@@ -48,7 +54,8 @@ p {
   padding-top: 10px;
 }
 
-.superinfo p, .superinfo a {
+.superinfo p,
+.superinfo a {
   margin: 0 10px 10px 10px;
 }
 
@@ -57,7 +64,7 @@ p {
 }
 
 .menu-bg {
-  background:#2c70ff;
+  background: #2c70ff;
 }
 
 .menu {
@@ -110,16 +117,17 @@ p {
   margin: 0 auto;
   padding: 60px 0;
   display: flex;
+  flex-wrap: wrap;
 }
 
 .sobre-info {
-  flex: 2;
+  flex: 2 1 300px;
   margin: 0 10px;
 }
 
 .sobre-info h1 {
   font-size: 3em;
-  margin-bottom: .5em;
+  margin-bottom: 0.5em;
 }
 
 .sobre-info p {
