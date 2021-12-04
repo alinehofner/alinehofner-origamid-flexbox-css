@@ -235,4 +235,5 @@ produtos-item h2 {
 .preco-item li::after {
   content: '';
   display: block;
+  width: 6px;
 }
