@@ -232,6 +232,10 @@ produtos-item h2 {
   color: #7c7c7c;
 }
 
+.preco-item li {
+  display: flex;
+}
+
 .preco-item li::after {
   content: '';
   display: block;
