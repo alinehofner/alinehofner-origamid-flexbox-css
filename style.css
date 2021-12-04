@@ -238,4 +238,5 @@ produtos-item h2 {
   width: 6px;
   height: 6px;
   background: #2c70ff;
+  border-radius: 50%;
 }
