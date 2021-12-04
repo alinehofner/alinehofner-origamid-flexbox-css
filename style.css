@@ -138,6 +138,6 @@ p {
 }
 
 .sobre-img {
-  flex: 1;
+  flex: 1 1 160px;
   margin: 0 10px;
 }
