@@ -189,6 +189,7 @@ produtos-item h2 {
   padding: 60px;
   display: flex;
   flex-wrap: wrap;
+  align-items: flex-end;
 }
 
 .preco-item {
