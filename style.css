@@ -231,3 +231,8 @@ produtos-item h2 {
   font-style: italic;
   color: #7c7c7c;
 }
+
+.preco-item li::after {
+  content: '';
+  display: block;
+}
