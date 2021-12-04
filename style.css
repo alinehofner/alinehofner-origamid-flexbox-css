@@ -159,4 +159,5 @@ p {
 
 .produtos-item {
   flex: 1 1 175px;
+  margin: 10px;
 }
