@@ -190,3 +190,7 @@ produtos-item h2 {
   display: flex;
   flex-wrap: wrap;
 }
+
+.preco-item {
+  flex: 1;
+}
