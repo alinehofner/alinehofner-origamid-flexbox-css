@@ -168,3 +168,15 @@ produtos-item h2 {
   background: #f7f7f7;
   padding: 60px 20px;
 }
+
+.purple {
+  border-top: 8px solid #ae81ff;
+}
+
+.pink {
+  border-top: 8px solid #f9265e;
+}
+
+.blue {
+  border-top: 8px solid #66d9eb;
+}
