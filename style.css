@@ -222,3 +222,7 @@ produtos-item h2 {
 .preco-item sup {
   font-size: .5rem;
 }
+
+.preco-item ul {
+  max-width: 300px;
+}
