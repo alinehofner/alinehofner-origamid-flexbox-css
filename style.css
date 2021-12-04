@@ -183,3 +183,8 @@ produtos-item h2 {
   border-top: 8px solid #66d9eb;
   align-self: flex-end;
 }
+
+.preco {
+  background: #f7f7f7;
+  padding: 60px;
+}
