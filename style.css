@@ -276,4 +276,12 @@ produtos-item h2 {
 .qualidade {
   max-width: 960px;
   margin: 60px auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.qualidade-item {
+  flex: 1 1 300px;
+  margin: 20px 10px;
+  
 }
