@@ -322,3 +322,18 @@ produtos-item h2 {
   display: flex;
   flex-wrap: wrap;
 }
+
+.newsletter-info {
+  flex: 1 1 260px;
+  margin: 0 10px;
+}
+
+.newsletter-info h1 {
+  font-size: 3em;
+  color: #a4a4a4;
+}
+
+.newsletter-info p {
+  font-size: 1.25em;
+  font-style: italic;
+}
