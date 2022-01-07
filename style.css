@@ -315,3 +315,8 @@ produtos-item h2 {
   line-height: 1.4;
   color: #7c7c7c;
 }
+
+.newsletter {
+  background: #f7f7f7;
+  padding: 60px calc((100%-960px)/2);
+}
