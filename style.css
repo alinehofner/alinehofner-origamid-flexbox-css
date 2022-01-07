@@ -319,4 +319,6 @@ produtos-item h2 {
 .newsletter {
   background: #f7f7f7;
   padding: 60px calc((100%-960px)/2);
+  display: flex;
+  flex-wrap: wrap;
 }
