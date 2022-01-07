@@ -296,4 +296,17 @@ produtos-item h2 {
   display:inline-block;
   width: 8px;
   height: 30px;
+  margin-right: 10px;
+  background: blue;
+}
+
+.qualidade-item:nth-of-type(3n+1) h2::before {
+  background: #ae81ff;
+}
+
+.qualidade-item:nth-of-type(3n+1) h2::before {
+  background: #f9265e;
+}
+.qualidade-item:nth-of-type(3n+1) h2::before {
+  background: #66d9eb;
 }
