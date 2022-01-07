@@ -290,3 +290,10 @@ produtos-item h2 {
   color: #a4a4a4;
   margin-bottom: 20px;
 }
+
+.qualidade-item h2::before {
+  content: '';
+  display:inline-block;
+  width: 8px;
+  height: 30px;
+}
